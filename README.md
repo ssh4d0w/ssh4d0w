@@ -1,5 +1,4 @@
 <h1 align="center">Hello im ssh4d0w you can call it shad0w for short</h1>
-<h3 align="center">a small developer from turkey</h3>
 
 - I’m currently learning **C++,Ruby,NodeJS**
 
