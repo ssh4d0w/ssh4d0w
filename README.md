@@ -1,4 +1,4 @@
-<h1 align="center">Hello im ssh4d0w you can call it shad0w for short</h1>
+<h1 align="center">shad0w</h1>
 
 - I’m currently learning **C++,Ruby,NodeJS**
 
